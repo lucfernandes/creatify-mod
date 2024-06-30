@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "iWi",
+      " ii"
+  ],
+  "key": {
+      "i": {
+          "item": "minecraft:iron_ingot"
+      },
+      "W": {
+          "item": "minecraft:water_bucket"
+      }
+  },
+  "result": {
+      "item": "creatify:watering_can",
+      "count": 1
+  }
+}
